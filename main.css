@@ -1,0 +1,33 @@
+table,
+td,
+th {
+  border: 1px solid #F5F5DC;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+}
+
+th {
+  height: 70px;
+
+}
+
+tbody {
+  text-align: center
+}
+
+.imageChange {
+  max-width: 40px;
+  height: auto;
+}
+
+tfoot {
+  text-align: right;
+
+}
+
+td.desProduct {
+  width: 229px;
+}
